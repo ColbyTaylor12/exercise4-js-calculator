@@ -1,0 +1,28 @@
+{
+  "name": "exercise4-js-calculator",
+  "version": "1.0.0",
+  "description": "A simple app to simulate a calculator",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColbyTaylor12/exercise4-js-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColbyTaylor12/exercise4-js-calculator/issues"
+  },
+  "homepage": "https://github.com/ColbyTaylor12/exercise4-js-calculator#readme",
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-vue": "^5.2.2"
+  }
+}

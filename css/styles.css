@@ -1,0 +1,15 @@
+h1 {
+    background-color: aliceblue;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+body {
+    background-color: grey; 
+}
+
+button {
+    height: 100px;
+    width: 100px;
+    font-weight: 900;
+}
